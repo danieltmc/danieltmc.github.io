@@ -1,0 +1,37 @@
+# Projects
+# uncomment the urls if you wish to display them, and add your own URL
+
+# TubaSynth
+- project: Tuba Synthesizer &amp; Effects
+  role: Primary Developer
+  duration: May, 2019 &mdash; Present
+  url: https://github.com/danieltmc/TubaSynth
+  description: Synthesizer that emulates the sound and playing style of a Tuba.  Accepts physical button presses as valve inputs to control the tone that is played.  Uses breath to control the audio volume.  Various audio effects are available to modify the sound of the output.
+
+# Rompler
+- project: Sampler &amp; Synthesizer
+  role: Primary Developer
+  duration: May, 2019 &mdash; Present
+  url: https://github.com/danieltmc/Sampler
+  description: Polyphonic Audio Rompler (ROM-Sampler) that performs pitch shifting and cross-fading.
+
+# Spotify Weather App
+- project: Sunny With a Chance of Bops
+  role: Developer &amp; Lead Tester
+  duration: Jan, 2019 &mdash; May, 2019
+  url: https://github.com/JoJo-77/SpotifyWeatherApp
+  description: Playlist selector for Spotify that chooses music based on the weather in a given ZIP code.  Utilizes Django, the Spotify API, a custom web scraper for Weather.gov, and Selenium for testing.
+
+# jazznotes.io
+#- project: jazznotes.io
+#  role: Founder & Primary Developer
+#  duration: 2012 &mdash; Present
+#  # url: "#"
+#  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
+
+# Springfield Community Outreach Group
+#- project: Springfield Community Outreach Group
+#  role: Co-Founder & Organizer
+#  duration: 2007 &mdash; Present
+#  # url: "#"
+#  description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
